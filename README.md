@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xola1917
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning first year in Computer Sciences at Nelson Mandela University.
-- 💞️ I’m looking to collaborate on Programming particularly classes and objects.
+- 🌱 I’m currently studying  3rd year in Computer Sciences at Nelson Mandela University.
+- 💞️ I’m looking to collaborate on programming, particularly classes and objects.
 - 📫 How to reach me, you can email me @witness566@gmail.com
 
 <!---
